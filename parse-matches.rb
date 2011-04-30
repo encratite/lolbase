@@ -81,7 +81,7 @@ class ChampionPerformance
       'Pirate' => 'Gangplank',
       'Bowmaster' => 'Ashe',
       'MasterYi' => 'Master Yi',
-      'GreenTerror' => 'Sion',
+      'GreenTerror' => "Cho'Gath",
       'DarkChampion' => 'Tryndamere',
       'JarvanIV' => 'Jarvan IV',
       'Wolfman' => 'Warwick',
